@@ -51,7 +51,6 @@ SUBDIRS = \
     plugins/yasem-ini-datasource \
     plugins/yasem-mag-api \
     plugins/yasem-dunehd-api \
-    plugins/yasem-qtav-mediaplayer \
     plugins/yasem-tray-icon \
     plugins/yasem-web-server \
     plugins/yasem-google-analytics
